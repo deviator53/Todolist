@@ -1,0 +1,14 @@
+.display__box{
+    display: flex;
+    border: 2px solid  rgb(7, 58, 7);
+    margin-top: 40px;
+    flex-direction: row;
+    padding: 10px;
+}
+.display__box__right{
+    margin-left: auto;
+}
+.display__icon{
+    color: rgb(7, 58, 7);
+    cursor: pointer;
+}

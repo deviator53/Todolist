@@ -1,0 +1,12 @@
+.form-item{
+    padding: 10px;
+    width: 100%;
+}
+.item-button{
+    padding: 8px;
+    background-color: rgb(7, 58, 7);
+    color: white;
+    outline: none;
+    border: none;
+    margin-top: 5px;
+}
